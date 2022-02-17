@@ -24,6 +24,12 @@ body {
     color:gray
 }
 
+.footer{
+    font-weight: 300;
+    font-size: 21px;
+    color:gray
+}
+
 /* LINKS */
 
 .link--cta {
