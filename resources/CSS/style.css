@@ -27,7 +27,8 @@ body {
 .footer{
     font-weight: 300;
     font-size: 21px;
-    color:gray
+    color:gray;
+    text-align:right;
 }
 
 /* LINKS */
